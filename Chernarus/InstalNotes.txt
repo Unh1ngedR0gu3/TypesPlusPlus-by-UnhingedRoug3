@@ -1,0 +1,61 @@
+Thank you for download my TypesPlusPlus Project for Chernarus
+
+Project Created by UnhingedRoug3 and uploaded to his Discord
+
+-- Join Here
+https://discord.gg/fwV8aAPGrR
+
+
+Upload to dayzOffline.chernarusplus
+
+    - TypesPlusPlus Folder
+
+Upload to dayzOffline.chernarusplus/db
+
+	- Upload types.xml to your db folder in your mission file
+
+Add Code to cfgEconomycore.xml
+
+    	<!-- New Code -->
+		<!-- Start Here -->
+	<ce folder="TypesPlusPlus">
+		<file name="Ammo_Boxes.xml" type="types" />
+		<file name="Animals.xml" type="types" />
+		<file name="Attachments.xml" type="types" />
+		<file name="Backpacks.xml" type="types" />
+		<file name="Camping.xml" type="types" />
+		<file name="Car_Parts.xml" type="types" />
+		<file name="Castle_Loot.xml" type="types" />
+		<file name="Civi_Clothing.xml" type="types" />
+		<file name="Communication.xml" type="types" />
+		<file name="Containers.xml" type="types" />
+		<file name="Event_Items.xml" type="types" />
+		<file name="Explosives.xml" type="types" />
+		<file name="Farming.xml" type="types" />
+		<file name="Fire_Arms.xml" type="types" />
+		<file name="Fishing.xml" type="types" />
+		<file name="Flags.xml" type="types" />
+		<file name="Food.xml" type="types" />
+		<file name="Ghillies.xml" type="types" />
+		<file name="Glasses.xml" type="types" />
+		<file name="Helmets.xml" type="types" />
+		<file name="Hunting.xml" type="types" />
+		<file name="Lights.xml" type="types" />
+		<file name="Loose_Ammo.xml" type="types" />
+		<file name="Mags.xml" type="types" />
+		<file name="Materials.xml" type="types" />
+		<file name="Medical.xml" type="types" />
+		<file name="Melee_Weapons.xml" type="types" />
+		<file name="Military_Clothing.xml" type="types" />
+		<file name="Tools.xml" type="types" />
+		<file name="Traps.xml" type="types" />
+		<file name="Useless.xml" type="types" />
+		<file name="Utillities.xml" type="types" />
+		<file name="Vehicles.xml" type="types" />
+		<file name="Vests.xml" type="types" />
+		<file name="Zombies.xml" type="types" />
+	</ce>
+		<!-- End Here -->
+
+
+Restart Server and Enjoy!
